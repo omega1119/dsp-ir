@@ -74,6 +74,14 @@ Using the Schroeder integration method, the notebook estimates the RT60 (time it
 
 The convolved result is saved as `audio/output_wet.wav`.
 
+### 📷 Spectrogram Preview
+
+![Spectrogram of Impulse Response](preview/spectrogram.png)
+
+### 📷 Waveform Comparison
+
+![Waveform Comparison](preview/waveform.png)
+
 ---
 
 ## Notes
