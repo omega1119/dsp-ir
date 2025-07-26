@@ -2,8 +2,6 @@
 
 This project demonstrates how to apply an impulse response (IR) to an audio file using Python and a Jupyter Notebook.
 
-You will learn how to:
-
 - Load and visualize impulse responses
 - Apply an IR to a dry audio file using FFT-based convolution
 - Analyze the spectral and temporal characteristics of the IR
@@ -16,8 +14,8 @@ You will learn how to:
 1. **Clone the repo and navigate to the project folder:**
 
 ```bash
-git clone <your-repo-url>
-cd apply_ir_project
+git clone https://github.com/omega1119/dsp-ir
+cd dsp-ir
 ````
 
 2. **Create and activate a virtual environment:**
@@ -95,7 +93,7 @@ The convolved result is saved as `audio/output_wet.wav`.
 ## ✅ Folder Structure
 
 ```
-apply_ir_project/
+dsp-ir/
 │
 ├── README.md
 ├── requirements.txt
