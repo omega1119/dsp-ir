@@ -99,7 +99,10 @@ dsp-ir/
 ├── requirements.txt
 ├── apply_ir.ipynb
 └── audio/
-    ├── impulse_response.wav
-    ├── dry_audio.wav
-    └── output_wet.wav  # generated after running the notebook
+│   ├── impulse_response.wav
+│   ├── dry_audio.wav
+│   └── output_wet.wav  # generated after running the notebook
+├── preview/
+│   ├── spectrogram.png
+│   └── waveform.png
 ```
