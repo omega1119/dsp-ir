@@ -72,9 +72,11 @@ Using the Schroeder integration method, the notebook estimates the RT60 (time it
 
 The convolved result is saved as `audio/output_wet.wav`.
 
-### 📷 Spectrogram Preview
+### 📷 Spectrogram with Octave Band Overlays
 
-![Spectrogram of Impulse Response](preview/spectrogram.png)
+This plot shows the IR’s energy over time across a log-scaled frequency axis, with ISO-standard octave bands overlaid for easy musical interpretation:
+
+![Spectrogram with Octave Bands](preview/spectrogram.png)
 
 ### 📷 Waveform Comparison
 
